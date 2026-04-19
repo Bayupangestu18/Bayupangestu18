@@ -1,4 +1,7 @@
 # 💫 About Me:
+I am a Network Operations Center (NOC) Engineer and IT Researcher at PT Bimanet Media Nusantara, a growing ISP in Indonesia.
+
+My work focuses on maintaining network stability while also developing and testing solutions to improve infrastructure performance. <br><br>
 🌍  I'm based in Indonesia<br>🖥️  See my portfolio at [Blog](http://bayupangestu18.blogspot.com/)<br>✉️  You can contact me at [bayupangestu1807@gmail.com](mailto:bayupangestu1807@gmail.com)<br>🧠  I'm currently learning Networking, Programming, CySec
 
 
